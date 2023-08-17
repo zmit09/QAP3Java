@@ -1,3 +1,4 @@
+package problem1;
 class Person {
     protected String myName;
     protected int myAge;

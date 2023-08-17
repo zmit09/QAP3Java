@@ -1,3 +1,4 @@
+package problem1;
 class CollegeStudent extends Student {
     private int year;
     private String major;

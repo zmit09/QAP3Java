@@ -1,3 +1,4 @@
+package problem1;
 class Student extends Person {
     protected String myIdNum;
     protected double myGPA;

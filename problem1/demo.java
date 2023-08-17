@@ -1,4 +1,6 @@
-public class Demo {
+package problem1;
+
+public class demo {
     public static void main(String[] args) {
         Person bob = new Person("Coach Bob", 27, "M");
         System.out.println(bob);
